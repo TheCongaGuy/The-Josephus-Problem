@@ -1,0 +1,138 @@
+~~List Testing~~
+N = 4 | M = 3
+Total Time: 3 microseconds
+Elimination Time: 1 microseconds
+
+N = 8 | M = 3
+Total Time: 8 microseconds
+Elimination Time: 1.14286 microseconds
+
+N = 16 | M = 3
+Total Time: 158 microseconds
+Elimination Time: 10.5333 microseconds
+
+N = 32 | M = 3
+Total Time: 18 microseconds
+Elimination Time ~0 seconds
+
+N = 64 | M = 3
+Total Time: 45 microseconds
+Elimination Time ~0 seconds
+
+N = 128 | M = 3
+Total Time: 301 microseconds
+Elimination Time: 2.37008 microseconds
+
+N = 256 | M = 3
+Total Time: 520 microseconds
+Elimination Time: 2.03922 microseconds
+
+N = 512 | M = 3
+Total Time: 4.39 milliseconds
+Elimination Time: 8.591 microseconds
+
+N = 1024 | M = 3
+Total Time: 7.593 milliseconds
+Elimination Time: 7.42229 microseconds
+
+N = 512 | M = 2
+Total Time: 2.013 milliseconds
+Elimination Time: 3.93933 microseconds
+
+N = 512 | M = 4
+Total Time: 2.147 milliseconds
+Elimination Time: 4.20157 microseconds
+
+N = 512 | M = 8
+Total Time: 2.715 milliseconds
+Elimination Time: 5.31311 microseconds
+
+N = 512 | M = 16
+Total Time: 2.13 milliseconds
+Elimination Time: 4.1683 microseconds
+
+N = 512 | M = 32
+Total Time: 1.92 milliseconds
+Elimination Time: 3.75734 microseconds
+
+N = 512 | M = 64
+Total Time: 1.99 milliseconds
+Elimination Time: 3.89432 microseconds
+
+N = 512 | M = 128
+Total Time: 1.921 milliseconds
+Elimination Time: 3.7593 microseconds
+
+N = 512 | M = 256
+Total Time: 1.75 milliseconds
+Elimination Time: 3.42466 microseconds
+
+~~Vector Testing~~
+N = 4 | M = 3
+Total Time: 4 microseconds
+Elimination Time: 1.33333 microseconds
+
+N = 8 | M = 3
+Total Time: 9 microseconds
+Elimination Time: 1.28571 microseconds
+
+N = 16 | M = 3
+Total Time: 20 microseconds
+Elimination Time: 1.33333 microseconds
+
+N = 32 | M = 3
+Total Time: 33 microseconds
+Elimination Time: 1.06452 microseconds
+
+N = 64 | M = 3
+Total Time: 127 microseconds
+Elimination Time: 2.01587 microseconds
+
+N = 128 | M = 3
+Total Time: 220 microseconds
+Elimination Time: 1.73228 microseconds
+
+N = 256 | M = 3
+Total Time: 714 microseconds
+Elimination Time: 2.8 microseconds
+
+N = 512 | M = 3
+Total Time: 2.402 milliseconds
+Elimination Time: 4.70059 microseconds
+
+N = 1024 | M = 3
+Total Time: 9.345 milliseconds
+Elimination Time: 9.1349 microseconds
+
+N = 512 | M = 2
+Total Time: 2.951 milliseconds
+Elimination Time: 5.77495 microseconds
+
+N = 512 | M = 4
+Total Time: 2.809 milliseconds
+Elimination Time: 5.49706 microseconds
+
+N = 512 | M = 8
+Total Time: 2.4 milliseconds
+Elimination Time: 4.69667 microseconds
+
+N = 512 | M = 16
+Total Time: 2.507 milliseconds
+Elimination Time: 4.90607 microseconds
+
+N = 512 | M = 32
+Total Time: 2.381 milliseconds
+Elimination Time: 4.65949 microseconds
+
+N = 512 | M = 64
+Total Time: 2.223 milliseconds
+Elimination Time: 4.35029 microseconds
+
+N = 512 | M = 128
+Total Time: 2.373 milliseconds
+Elimination Time: 4.64384 microseconds
+
+N = 512 | M = 256
+Total Time: 3.359 milliseconds
+Elimination Time: 6.57339 microseconds
+
